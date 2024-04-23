@@ -19,10 +19,6 @@ function Index ({breads})  {
     )
   })
 }
-
-
-
-
   </ul>
 </Default>
        
